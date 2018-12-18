@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "Outfox Social",
+  "short_name": "Outfox Social",
+  "version": "br.com.outfoxsocial.app",
+  "description": "Aplicativo interno para colaboradores",
+  "author": "Outfox Team",
+  "icons": [],
+  "start_url": "login.html"
+}
